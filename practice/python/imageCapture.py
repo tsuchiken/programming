@@ -4,6 +4,7 @@ from datetime import *
 import cv2
 import sys
 import os
+import numpy
 
 #Define capture device
 defaultDevice = 0
@@ -24,7 +25,7 @@ while vc.isOpened():
 	ret, frame = vc.read()
 
 	#Desplay images
-	cv2.imshow("test",frame)
+	cv2.imshow("capture",frame)
 	"""
 	CheckMethod
 	print(filename,str(round(vc.get(cv2.CAP_PROP_FPS),0)))
