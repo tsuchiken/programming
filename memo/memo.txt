@@ -1,2 +1,5 @@
-opencv解説
+opencv
 	http://opencv.blog.jp/python/pythonxy_opencv_install
+
+fourccコーデック?
+	http://www.fourcc.org/downloads/ffdshow-mpeg-4-video-25/start
