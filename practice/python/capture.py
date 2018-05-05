@@ -20,7 +20,7 @@ if not vc.isOpened():
 fps = vc.get(cv2.CAP_PROP_FPS)
 size = (vc.get(cv2.CAP_PROP_FRAME_WIDTH), vc.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
-fourcc = cv2.VideoWriter_fourcc(*"MP42")
+fourcc = cv2.VideoWriter_fourcc(*"XVID")
 
 path = "D:\\Videos\\Captures\\"
 os.makedirs(path,0o777,True)
@@ -32,7 +32,7 @@ print(fnTime)
 """
 filename = "cap_" + fnTime + ".mp4"
 
-out = cv2.VideoWriter(filename,fourcc,fps,size)
+out = cv2.VideoWriter(path + filename,fourcc,30.0,(640,480))
 
 while vc.isOpened():
 	#Read images in every frame
