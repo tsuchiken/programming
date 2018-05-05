@@ -1,0 +1,29 @@
+※管理者権限でcmdPronpt起動
+
+Microsoft Windows [Version 10.0.16299.371]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>pip install pyautogui
+Collecting pyautogui
+  Downloading https://files.pythonhosted.org/packages/2e/83/89b5adbc37d1bbf7b486a2c1c00e8037e6f801e8c053c4897bb82d9510c6/PyAutoGUI-0.9.36.tar.gz (46kB)
+    100% |████████████████████████████████| 51kB 889kB/s
+Collecting pymsgbox (from pyautogui)
+  Downloading https://files.pythonhosted.org/packages/b6/65/86379ede1db26c40e7972d7a41c69cdf12cc6a0f143749aabf67ab8a41a1/PyMsgBox-1.0.6.zip
+Collecting PyTweening>=1.0.1 (from pyautogui)
+  Downloading https://files.pythonhosted.org/packages/b9/f8/c32a58d6e4dff8aa5c27e907194d69f3b57e525c2e4af96f39c6e9c854d2/PyTweening-1.0.3.zip
+Collecting Pillow (from pyautogui)
+  Downloading https://files.pythonhosted.org/packages/bc/6d/40ad1421a015c3710b329e99842ece044492cc5ff51159b5b23558000aad/Pillow-5.1.0-cp36-cp36m-win32.whl (1.4MB)
+    100% |████████████████████████████████| 1.4MB 545kB/s
+Collecting pyscreeze (from pyautogui)
+  Downloading https://files.pythonhosted.org/packages/9e/ec/e625b7c4f496977eafc441cd1f71becc8436a4ff0714263b885d269d866a/PyScreeze-0.1.14.tar.gz
+Installing collected packages: pymsgbox, PyTweening, Pillow, pyscreeze, pyautogui
+  Running setup.py install for pymsgbox ... done
+  Running setup.py install for PyTweening ... done
+  Running setup.py install for pyscreeze ... done
+  Running setup.py install for pyautogui ... done
+Successfully installed Pillow-5.1.0 PyTweening-1.0.3 pyautogui-0.9.36 pymsgbox-1.0.6 pyscreeze-0.1.14
+You are using pip version 9.0.1, however version 10.0.1 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+
+C:\WINDOWS\system32>
+
