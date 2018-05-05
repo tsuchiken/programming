@@ -40,7 +40,7 @@ while vc.isOpened():
 		fnTime = datetime.now().strftime("%Y%m%d_%H%M%S")
 
 		"""
-		CheckDeal
+		CheckMethod
 		print(fnTime)
 		"""
 		filename = "cap_" + fnTime + ".png"
