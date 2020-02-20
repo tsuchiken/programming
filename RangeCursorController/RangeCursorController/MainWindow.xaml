@@ -1,0 +1,13 @@
+﻿<Window x:Class="CursorRangeController.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CursorRangeController"
+        mc:Ignorable="d"
+        Title="CursorRangeController" Height="450" Width="800">
+    <Grid Background="#FF82FCFF">
+        <Label x:Name="l_ActiveWindowName" Content="ActiveWindowName" Margin="23,27,631.286,367.714" />
+        <Label x:Name="tb_ActiveWindowName" Content="{Binding }"/>
+    </Grid>
+</Window>

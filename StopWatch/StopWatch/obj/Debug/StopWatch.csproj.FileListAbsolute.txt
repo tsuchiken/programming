@@ -1,0 +1,29 @@
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\MainWindow.g.cs
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\App.g.cs
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch_MarkupCompile.cache
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch_MarkupCompile.lref
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\MainWindow.baml
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.g.resources
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
+C:\Users\Kengo\Documents\Visual Studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.csprojAssemblyReference.cache
+D:\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+D:\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+D:\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+D:\StopWatch\StopWatch\obj\Debug\StopWatch.csprojAssemblyReference.cache
+D:\StopWatch\StopWatch\obj\Debug\MainWindow.g.cs
+D:\StopWatch\StopWatch\obj\Debug\App.g.cs
+D:\StopWatch\StopWatch\obj\Debug\StopWatch_MarkupCompile.cache
+D:\StopWatch\StopWatch\obj\Debug\MainWindow.baml
+D:\StopWatch\StopWatch\obj\Debug\StopWatch.g.resources
+D:\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+D:\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+D:\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+D:\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+D:\StopWatch\StopWatch\obj\Debug\StopWatch.pdb

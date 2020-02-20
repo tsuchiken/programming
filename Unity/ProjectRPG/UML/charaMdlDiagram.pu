@@ -1,0 +1,37 @@
+@startuml
+Object <|-- Character
+
+Object : -level
+Object : -name
+Object : -str
+Object : -int
+Object : -vit
+Object : -spl
+Object : -dex
+Object : -agi
+Object : -hp
+Object : -hp_rec
+Object : -hp_recRate
+Object : -sg
+Object : -sg_rec
+Object : -sg_recRate
+Object : -stamina
+Object : -sta_rec
+Object : -sta_recRate
+Object : -atk_spd
+Object : -mv_spd
+Object : -cri_occ
+Object : -cri_reg
+Object : -phy_atk
+Object : -mag_atk
+Object : -phy_def
+Object : -mag_def
+Object : -phy_hit
+Object : -mag_hit
+Object : -phy_avo
+Object : -mag_avo
+Object : -setName()
+Object : -getName()
+Object : 
+
+@enduml
