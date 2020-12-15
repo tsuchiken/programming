@@ -1,4 +1,5 @@
 opencv
+<<<<<<< HEAD
  install
 	http://opencv.blog.jp/python/pythonxy_opencv_install
  tutorial
@@ -7,3 +8,9 @@ opencv
 fourcc
 	http://www.fourcc.org/downloads/ffdshow-mpeg-4-video-25/start
 
+=======
+	http://opencv.blog.jp/python/pythonxy_opencv_install
+
+fourccコーデック?
+	http://www.fourcc.org/downloads/ffdshow-mpeg-4-video-25/start
+>>>>>>> daa137751ad76a4f65ec7716bed6540d9b21e257
