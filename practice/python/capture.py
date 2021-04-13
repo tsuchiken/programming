@@ -22,7 +22,7 @@ size = (vc.get(cv2.CAP_PROP_FRAME_WIDTH), vc.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
 fourcc = cv2.VideoWriter_fourcc(*"XVID")
 
-path = "D:\\Videos\\Captures\\"
+path = "E:\\Videos\\Captures\\"
 os.makedirs(path,0o777,True)
 fnTime = datetime.now().strftime("%Y%m%d_%H%M%S")
 
